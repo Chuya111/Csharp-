@@ -1,0 +1,5 @@
+D:\school\2023autumn\vspratice\interface.tests\obj\Debug\net6.0\interface.tests.csproj.AssemblyReference.cache
+D:\school\2023autumn\vspratice\interface.tests\obj\Debug\net6.0\interface.tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\2023autumn\vspratice\interface.tests\obj\Debug\net6.0\interface.tests.AssemblyInfoInputs.cache
+D:\school\2023autumn\vspratice\interface.tests\obj\Debug\net6.0\interface.tests.AssemblyInfo.cs
+D:\school\2023autumn\vspratice\interface.tests\obj\Debug\net6.0\interface.tests.csproj.CoreCompileInputs.cache

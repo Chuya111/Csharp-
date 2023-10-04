@@ -1,0 +1,7 @@
+D:\school\2023autumn\vspratice\interfacelearn\bin\Debug\interfacelearn.exe.config
+D:\school\2023autumn\vspratice\interfacelearn\bin\Debug\interfacelearn.exe
+D:\school\2023autumn\vspratice\interfacelearn\bin\Debug\interfacelearn.pdb
+D:\school\2023autumn\vspratice\interfacelearn\obj\Debug\interfacelearn.csproj.AssemblyReference.cache
+D:\school\2023autumn\vspratice\interfacelearn\obj\Debug\interfacelearn.csproj.CoreCompileInputs.cache
+D:\school\2023autumn\vspratice\interfacelearn\obj\Debug\interfacelearn.exe
+D:\school\2023autumn\vspratice\interfacelearn\obj\Debug\interfacelearn.pdb

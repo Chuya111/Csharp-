@@ -1,0 +1,7 @@
+D:\school\2023autumn\vspratice\ConsoleApprun\bin\Debug\ConsoleApprun.exe.config
+D:\school\2023autumn\vspratice\ConsoleApprun\bin\Debug\ConsoleApprun.exe
+D:\school\2023autumn\vspratice\ConsoleApprun\bin\Debug\ConsoleApprun.pdb
+D:\school\2023autumn\vspratice\ConsoleApprun\obj\Debug\ConsoleApprun.csproj.AssemblyReference.cache
+D:\school\2023autumn\vspratice\ConsoleApprun\obj\Debug\ConsoleApprun.csproj.CoreCompileInputs.cache
+D:\school\2023autumn\vspratice\ConsoleApprun\obj\Debug\ConsoleApprun.exe
+D:\school\2023autumn\vspratice\ConsoleApprun\obj\Debug\ConsoleApprun.pdb

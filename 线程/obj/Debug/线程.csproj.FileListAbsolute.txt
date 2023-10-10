@@ -1,0 +1,7 @@
+D:\learn\C\学习\线程\bin\Debug\线程.exe.config
+D:\learn\C\学习\线程\bin\Debug\线程.exe
+D:\learn\C\学习\线程\bin\Debug\线程.pdb
+D:\learn\C\学习\线程\obj\Debug\线程.csproj.AssemblyReference.cache
+D:\learn\C\学习\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
+D:\learn\C\学习\线程\obj\Debug\线程.exe
+D:\learn\C\学习\线程\obj\Debug\线程.pdb

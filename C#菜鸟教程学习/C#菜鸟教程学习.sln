@@ -5,6 +5,20 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#菜鸟教程学习", "C#菜鸟教程学习.csproj", "{D93FD0DD-57A2-4D58-AAC1-8AB5BEF7C724}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程", "..\线程\线程.csproj", "{B1DA1686-F38E-4AED-9851-7B7158149DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程—自定义类传递数据", "..\多线程—自定义类传递数据\多线程—自定义类传递数据.csproj", "{F37743BD-E07E-447E-BDCD-5B72AC07080D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程-前台线程和后台线程", "..\多线程-前台线程和后台线程\多线程-前台线程和后台线程.csproj", "{8E729280-6290-496B-BF8A-E4547DC23E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程-优先级", "..\多线程-优先级\多线程-优先级.csproj", "{F3CC8B4C-402B-412C-B35E-86FEED5D3603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程池", "..\线程池\线程池.csproj", "{93EF099A-0C72-467A-9FB4-9651EABEFEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程-任务", "..\多线程-任务\多线程-任务.csproj", "{B53789A0-F4D9-49A6-A947-4BEBA013A673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程-资源冲突", "..\多线程-资源冲突\多线程-资源冲突.csproj", "{BE30907C-5667-4D66-B82E-DF41820253A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +29,34 @@ Global
 		{D93FD0DD-57A2-4D58-AAC1-8AB5BEF7C724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93FD0DD-57A2-4D58-AAC1-8AB5BEF7C724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93FD0DD-57A2-4D58-AAC1-8AB5BEF7C724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DA1686-F38E-4AED-9851-7B7158149DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DA1686-F38E-4AED-9851-7B7158149DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DA1686-F38E-4AED-9851-7B7158149DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DA1686-F38E-4AED-9851-7B7158149DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37743BD-E07E-447E-BDCD-5B72AC07080D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37743BD-E07E-447E-BDCD-5B72AC07080D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37743BD-E07E-447E-BDCD-5B72AC07080D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37743BD-E07E-447E-BDCD-5B72AC07080D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E729280-6290-496B-BF8A-E4547DC23E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E729280-6290-496B-BF8A-E4547DC23E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E729280-6290-496B-BF8A-E4547DC23E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E729280-6290-496B-BF8A-E4547DC23E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CC8B4C-402B-412C-B35E-86FEED5D3603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CC8B4C-402B-412C-B35E-86FEED5D3603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CC8B4C-402B-412C-B35E-86FEED5D3603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CC8B4C-402B-412C-B35E-86FEED5D3603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EF099A-0C72-467A-9FB4-9651EABEFEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EF099A-0C72-467A-9FB4-9651EABEFEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EF099A-0C72-467A-9FB4-9651EABEFEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EF099A-0C72-467A-9FB4-9651EABEFEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53789A0-F4D9-49A6-A947-4BEBA013A673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53789A0-F4D9-49A6-A947-4BEBA013A673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53789A0-F4D9-49A6-A947-4BEBA013A673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53789A0-F4D9-49A6-A947-4BEBA013A673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE30907C-5667-4D66-B82E-DF41820253A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE30907C-5667-4D66-B82E-DF41820253A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE30907C-5667-4D66-B82E-DF41820253A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE30907C-5667-4D66-B82E-DF41820253A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

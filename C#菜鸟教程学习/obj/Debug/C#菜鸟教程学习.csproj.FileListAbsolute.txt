@@ -1,0 +1,7 @@
+D:\learn\C\学习\C#菜鸟教程学习\bin\Debug\C#菜鸟教程学习.exe.config
+D:\learn\C\学习\C#菜鸟教程学习\bin\Debug\C#菜鸟教程学习.exe
+D:\learn\C\学习\C#菜鸟教程学习\bin\Debug\C#菜鸟教程学习.pdb
+D:\learn\C\学习\C#菜鸟教程学习\obj\Debug\C#菜鸟教程学习.csproj.AssemblyReference.cache
+D:\learn\C\学习\C#菜鸟教程学习\obj\Debug\C#菜鸟教程学习.csproj.CoreCompileInputs.cache
+D:\learn\C\学习\C#菜鸟教程学习\obj\Debug\C#菜鸟教程学习.exe
+D:\learn\C\学习\C#菜鸟教程学习\obj\Debug\C#菜鸟教程学习.pdb

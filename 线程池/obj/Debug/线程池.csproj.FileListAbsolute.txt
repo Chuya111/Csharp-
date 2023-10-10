@@ -1,0 +1,2 @@
+D:\learn\C\学习\线程池\obj\Debug\线程池.csproj.AssemblyReference.cache
+D:\learn\C\学习\线程池\obj\Debug\线程池.csproj.CoreCompileInputs.cache

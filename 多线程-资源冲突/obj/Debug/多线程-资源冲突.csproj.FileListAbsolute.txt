@@ -1,0 +1,2 @@
+D:\learn\C\学习\多线程-资源冲突\obj\Debug\多线程-资源冲突.csproj.AssemblyReference.cache
+D:\learn\C\学习\多线程-资源冲突\obj\Debug\多线程-资源冲突.csproj.CoreCompileInputs.cache

@@ -56,12 +56,12 @@ namespace 数组结构
             }
         }
         //矩阵
-        int[,] matrixA = new int[3, 3] { {1,3,5},{7,9,11},{13,15,17} };
-        int[,] matrixB = new int[3, 3] { { 9, 8, 7 }, { 6, 5, 4 }, { 3, 2, 1 } };
-         void addmatrix(int[,] arrA, int[,]arrB, int[,] arrC)//把C传进来，就可以传出去
-        {
-            matrixA + matrixB;
-        }
+        //int[,] matrixA = new int[3, 3] { {1,3,5},{7,9,11},{13,15,17} };
+        //int[,] matrixB = new int[3, 3] { { 9, 8, 7 }, { 6, 5, 4 }, { 3, 2, 1 } };
+        // void addmatrix(int[,] arrA, int[,]arrB, int[,] arrC)//把C传进来，就可以传出去
+        //{
+        //    matrixA + matrixB;
+        //}
 
 
     }

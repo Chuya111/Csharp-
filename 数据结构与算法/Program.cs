@@ -10,11 +10,37 @@ namespace 数据结构与算法
     {
         static void Main(string[] args)
         {
+           
+            
             Console.WriteLine($"5!={digui(5)}");//$"插值字符串{f(x)}"最后打印出：插值字符串f(x)
             Console.WriteLine($"5!={Fibonacci(5)}");
             Console.WriteLine($"5de jiechengshi{jiecheng(5)}");
             Console.WriteLine($"5!={meiju()}");
             Console.WriteLine($"5!={beishu5()}");
+        }
+         //快速排序————填补空位
+        void quicksort(int[]arr,int strat,int end)
+        {
+            int mid =arr[start];
+            int s= start;
+            int e = end;
+            while (s<e)
+            {
+                while(s<e&&arr[e]>=mid)
+                {
+                    e--;
+                }
+                arr[s]=arr[e];
+                 while(s<e&&arr[s]<mid)
+                {
+                    s++;
+                }
+                arr[e]=arr[s];
+            }
+            arr[s]=mid;//插入中间数
+            quicksort(arr,strat,s-1);
+            quicksort(arr,s+1,end);
+
         }
         //分治法，一个方法拆成多个小方法
         //递归法：需要调用自己的子部分
